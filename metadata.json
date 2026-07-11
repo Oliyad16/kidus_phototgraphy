@@ -1,0 +1,6 @@
+{
+  "name": "Kidus Photography",
+  "description": "A simplistic, elegant, and modern photography portfolio showcasing portraits, weddings, landscapes, and street events by Kidus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
